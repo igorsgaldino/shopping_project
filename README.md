@@ -11,8 +11,8 @@ Esse projeto busca apresentar uma automação de testes simples e eficaz, simula
 Iremos simular algumas navegações em cima dos módulos:</p>
 <ul>
 <li class="has-line-data" data-line-start="15" data-line-end="16"><code>Login</code></li>
-<li class="has-line-data" data-line-start="16" data-line-end="17"><code>Meu Perfil</code></li>
-<li class="has-line-data" data-line-start="17" data-line-end="18"><code>Minha Rede</code></li>
+<li class="has-line-data" data-line-start="16" data-line-end="17"><code>Home</code></li>
+<li class="has-line-data" data-line-start="17" data-line-end="18"><code>Carrinho de compras</code></li>
 </ul>
 <p class="has-line-data" data-line-start="20" data-line-end="22"><strong>Relatórios</strong><br>
 Após a execução dos casos de testes, a própria ferramenta (Katalon Studio) se encarrega de gerar relatórios de forma automatica, apresentando os resultados dos testes e um rico detalhamento do que aconteceu por trás de cada execução. <em>Exemplo:</em></p>
