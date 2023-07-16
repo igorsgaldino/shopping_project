@@ -1,0 +1,65 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Casos de Teste - Usuário realiza compra com sucesso,Chrome 114.0.0.0,,,2023-07-16 10:29:25,2023-07-16 10:29:54,"28,542s",PASSED
+,,,,,,,
+Test Cases/Casos de Teste - Usuário realiza compra com sucesso,Chrome 114.0.0.0,,,2023-07-16 10:29:26,2023-07-16 10:29:54,"28,161s",PASSED
+"openBrowser(""https://www.saucedemo.com/"")",Chrome 114.0.0.0,,,2023-07-16 10:29:26,2023-07-16 10:29:30,"3,433s",PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-16 10:29:30,2023-07-16 10:29:30,"0,182s",PASSED
+"click(findTestObject(""Login/input_login""))",Chrome 114.0.0.0,,,2023-07-16 10:29:30,2023-07-16 10:29:30,"0,295s",PASSED
+"setText(findTestObject(""Login/input_login""), ""logininvalid"")",Chrome 114.0.0.0,,,2023-07-16 10:29:30,2023-07-16 10:29:30,"0,278s",PASSED
+"click(findTestObject(""Login/input_password""))",Chrome 114.0.0.0,,,2023-07-16 10:29:30,2023-07-16 10:29:30,"0,137s",PASSED
+"setText(findTestObject(""Login/input_password""), ""passwordinvalid"")",Chrome 114.0.0.0,,,2023-07-16 10:29:30,2023-07-16 10:29:31,"0,203s",PASSED
+"click(findTestObject(""Login/button_acesso""))",Chrome 114.0.0.0,,,2023-07-16 10:29:31,2023-07-16 10:29:31,"0,153s",PASSED
+"verifyTextPresent(""Epic sadface: Username and password do not match any user in this service"", true)",Chrome 114.0.0.0,,,2023-07-16 10:29:31,2023-07-16 10:29:31,"0,067s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:31,2023-07-16 10:29:32,"1,046s",PASSED
+"click(findTestObject(""Login/input_login""))",Chrome 114.0.0.0,,,2023-07-16 10:29:32,2023-07-16 10:29:32,"0,143s",PASSED
+"setText(findTestObject(""Login/input_login""), ""standard_user"")",Chrome 114.0.0.0,,,2023-07-16 10:29:32,2023-07-16 10:29:32,"0,235s",PASSED
+"click(findTestObject(""Login/input_password""))",Chrome 114.0.0.0,,,2023-07-16 10:29:32,2023-07-16 10:29:32,"0,140s",PASSED
+"setText(findTestObject(""Login/input_password""), ""secret_sauce"")",Chrome 114.0.0.0,,,2023-07-16 10:29:32,2023-07-16 10:29:33,"0,228s",PASSED
+"click(findTestObject(""Login/button_acesso""))",Chrome 114.0.0.0,,,2023-07-16 10:29:33,2023-07-16 10:29:33,"0,210s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:33,2023-07-16 10:29:34,"1,007s",PASSED
+"mouseOver(findTestObject(""Object Repository/Home/button_add_to_cart_bolt_tshirt""))",Chrome 114.0.0.0,,,2023-07-16 10:29:34,2023-07-16 10:29:34,"0,301s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:34,2023-07-16 10:29:35,"1,013s",PASSED
+"click(findTestObject(""Object Repository/Home/button_add_to_cart_bolt_tshirt""))",Chrome 114.0.0.0,,,2023-07-16 10:29:35,2023-07-16 10:29:35,"0,131s",PASSED
+"mouseOver(findTestObject(""Object Repository/Home/button_add_cart_fleece_jacket""))",Chrome 114.0.0.0,,,2023-07-16 10:29:35,2023-07-16 10:29:36,"0,250s",PASSED
+"click(findTestObject(""Object Repository/Home/button_add_cart_fleece_jacket""))",Chrome 114.0.0.0,,,2023-07-16 10:29:36,2023-07-16 10:29:36,"0,126s",PASSED
+"mouseOver(findTestObject(""Object Repository/Home/button_add_cart_bike_light""))",Chrome 114.0.0.0,,,2023-07-16 10:29:36,2023-07-16 10:29:36,"0,255s",PASSED
+"click(findTestObject(""Object Repository/Home/button_add_cart_bike_light""))",Chrome 114.0.0.0,,,2023-07-16 10:29:36,2023-07-16 10:29:36,"0,131s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:36,2023-07-16 10:29:37,"1,008s",PASSED
+"mouseOver(findTestObject(""Object Repository/Home/button_carrinho""))",Chrome 114.0.0.0,,,2023-07-16 10:29:37,2023-07-16 10:29:37,"0,267s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:37,2023-07-16 10:29:38,"1,016s",PASSED
+"click(findTestObject(""Object Repository/Home/button_carrinho""))",Chrome 114.0.0.0,,,2023-07-16 10:29:38,2023-07-16 10:29:39,"0,142s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:39,2023-07-16 10:29:40,"1,017s",PASSED
+"mouseOver(findTestObject(""Object Repository/Cart/button_checkout""))",Chrome 114.0.0.0,,,2023-07-16 10:29:40,2023-07-16 10:29:40,"0,269s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:40,2023-07-16 10:29:41,"1,017s",PASSED
+"click(findTestObject(""Object Repository/Cart/button_checkout""))",Chrome 114.0.0.0,,,2023-07-16 10:29:41,2023-07-16 10:29:41,"0,144s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:41,2023-07-16 10:29:42,"1,011s",PASSED
+"click(findTestObject(""Object Repository/Checkout/input_first_name""))",Chrome 114.0.0.0,,,2023-07-16 10:29:42,2023-07-16 10:29:42,"0,133s",PASSED
+"setText(findTestObject(""Object Repository/Checkout/input_first_name""), ""Igor"")",Chrome 114.0.0.0,,,2023-07-16 10:29:42,2023-07-16 10:29:42,"0,197s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:42,2023-07-16 10:29:43,"1,016s",PASSED
+"mouseOver(findTestObject(""Object Repository/Checkout/input_last_name""))",Chrome 114.0.0.0,,,2023-07-16 10:29:43,2023-07-16 10:29:44,"0,268s",PASSED
+"click(findTestObject(""Object Repository/Checkout/input_last_name""))",Chrome 114.0.0.0,,,2023-07-16 10:29:44,2023-07-16 10:29:44,"0,144s",PASSED
+"setText(findTestObject(""Object Repository/Checkout/input_last_name""), ""Galdino"")",Chrome 114.0.0.0,,,2023-07-16 10:29:44,2023-07-16 10:29:44,"0,235s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:44,2023-07-16 10:29:45,"1,013s",PASSED
+"mouseOver(findTestObject(""Object Repository/Checkout/input_zip_postal_code""))",Chrome 114.0.0.0,,,2023-07-16 10:29:45,2023-07-16 10:29:45,"0,252s",PASSED
+"click(findTestObject(""Object Repository/Checkout/input_zip_postal_code""))",Chrome 114.0.0.0,,,2023-07-16 10:29:45,2023-07-16 10:29:45,"0,183s",PASSED
+"setText(findTestObject(""Object Repository/Checkout/input_zip_postal_code""), ""08391-712"")",Chrome 114.0.0.0,,,2023-07-16 10:29:45,2023-07-16 10:29:46,"0,239s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Checkout/button_continue""), 0)",Chrome 114.0.0.0,,,2023-07-16 10:29:46,2023-07-16 10:29:46,"0,123s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:46,2023-07-16 10:29:47,"1,002s",PASSED
+"mouseOver(findTestObject(""Object Repository/Checkout/button_continue""))",Chrome 114.0.0.0,,,2023-07-16 10:29:47,2023-07-16 10:29:47,"0,237s",PASSED
+"click(findTestObject(""Object Repository/Checkout/button_continue""))",Chrome 114.0.0.0,,,2023-07-16 10:29:47,2023-07-16 10:29:47,"0,155s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:47,2023-07-16 10:29:48,"1,016s",PASSED
+"mouseOver(findTestObject(""Object Repository/Checkout Finish/button_finish""))",Chrome 114.0.0.0,,,2023-07-16 10:29:48,2023-07-16 10:29:48,"0,269s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:48,2023-07-16 10:29:50,"1,015s",PASSED
+"click(findTestObject(""Object Repository/Checkout Finish/button_finish""))",Chrome 114.0.0.0,,,2023-07-16 10:29:50,2023-07-16 10:29:50,"0,134s",PASSED
+"verifyTextPresent(""Thank you for your order!"", true)",Chrome 114.0.0.0,,,2023-07-16 10:29:50,2023-07-16 10:29:50,"0,038s",PASSED
+"verifyTextPresent(""Your order has been dispatched, and will arrive just as fast as the pony can get there!"", true)",Chrome 114.0.0.0,,,2023-07-16 10:29:50,2023-07-16 10:29:50,"0,043s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:50,2023-07-16 10:29:51,"1,013s",PASSED
+"mouseOver(findTestObject(""Object Repository/Checkout Finish/button_back_home""))",Chrome 114.0.0.0,,,2023-07-16 10:29:51,2023-07-16 10:29:51,"0,252s",PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-16 10:29:51,2023-07-16 10:29:52,"1,016s",PASSED
+"click(findTestObject(""Object Repository/Checkout Finish/button_back_home""))",Chrome 114.0.0.0,,,2023-07-16 10:29:52,2023-07-16 10:29:52,"0,144s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Home/button_open_menu""), 0)",Chrome 114.0.0.0,,,2023-07-16 10:29:52,2023-07-16 10:29:52,"0,101s",PASSED
+"mouseOver(findTestObject(""Object Repository/Home/button_open_menu""))",Chrome 114.0.0.0,,,2023-07-16 10:29:52,2023-07-16 10:29:52,"0,247s",PASSED
+"click(findTestObject(""Object Repository/Home/button_open_menu""))",Chrome 114.0.0.0,,,2023-07-16 10:29:52,2023-07-16 10:29:53,"0,132s",PASSED
+"mouseOver(findTestObject(""Object Repository/Home/button_logout""))",Chrome 114.0.0.0,,,2023-07-16 10:29:53,2023-07-16 10:29:53,"0,276s",PASSED
+"click(findTestObject(""Object Repository/Home/button_logout""))",Chrome 114.0.0.0,,,2023-07-16 10:29:53,2023-07-16 10:29:53,"0,135s",PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-16 10:29:53,2023-07-16 10:29:54,"0,695s",PASSED
