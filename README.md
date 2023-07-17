@@ -4,7 +4,7 @@
 <hr>
 <p class="has-line-data" data-line-start="5" data-line-end="6">#Adicionar Video</p>
 <p class="has-line-data" data-line-start="7" data-line-end="9"><strong>Introdução</strong><br>
-Esse é um projeto de estudo de automação de testes, utilizando como ferramenta principal o Katalon Studio. Também, vamos utilizar um sistema de compras online na realização do projeto.</p>
+Esse é um projeto de estudo de automação de testes, utilizando como modelo um sistema de compras.</p>
 <p class="has-line-data" data-line-start="10" data-line-end="12"><strong>Objetivo</strong><br>
 Esse projeto busca apresentar uma automação de testes simples e eficaz, simulando a navegação de um usuário comum, onde o mesmo realiza as ações no sistema de compras online.</p>
 <p class="has-line-data" data-line-start="13" data-line-end="15"><strong>Módulos</strong><br>
@@ -15,7 +15,7 @@ Iremos simular algumas navegações em cima dos módulos:</p>
 <li class="has-line-data" data-line-start="17" data-line-end="18"><code>Carrinho de Compras</code></li>
 </ul>
 <p class="has-line-data" data-line-start="20" data-line-end="22"><strong>Relatórios</strong><br>
-Após a execução dos casos de testes, a própria ferramenta (Katalon Studio) se encarrega de gerar relatórios de forma automatica, apresentando os resultados dos testes e um rico detalhamento do que aconteceu por trás de cada execução. <em>Exemplo:</em></p>
+Após a execução dos casos de testes, o projeto também gera relatórios técnicos, apresentando os resultados dos testes e um rico detalhamento do que aconteceu por trás de cada execução da suíte de testes. <em>Exemplo:</em></p>
 <pre><code class="has-line-data" data-line-start="24" data-line-end="30" class="language-diff">Casos de testes que passaram (Passed)
 Casos de testes que falharam (Failed)
 Casos de testes interrompidos durante a sua execução (Incomplete)
