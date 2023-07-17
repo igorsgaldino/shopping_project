@@ -15,7 +15,7 @@ Iremos simular algumas navegações em cima dos módulos:</p>
 <li class="has-line-data" data-line-start="17" data-line-end="18"><code>Carrinho de Compras</code></li>
 </ul>
 <p class="has-line-data" data-line-start="20" data-line-end="22"><strong>Relatórios</strong><br>
-Após a execução dos casos de testes, o projeto também gera relatórios técnicos, apresentando os resultados dos testes e um rico detalhamento do que aconteceu por trás de cada execução da suíte de testes. <em>Exemplo:</em></p>
+Após a execução dos casos de testes, o projeto também gera relatórios técnicos, apresentando os resultados dos testes e um rico detalhamento do que aconteceu por trás de cada execução. <em>Exemplo:</em></p>
 <pre><code class="has-line-data" data-line-start="24" data-line-end="30" class="language-diff">Casos de testes que passaram (Passed)
 Casos de testes que falharam (Failed)
 Casos de testes interrompidos durante a sua execução (Incomplete)
