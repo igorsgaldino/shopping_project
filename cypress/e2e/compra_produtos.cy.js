@@ -1,5 +1,5 @@
 describe('Compra de Produtos', () => {
-  it.only('Caso 1 - Usuário realiza compra com sucesso', () => {
+  it('Caso 1 - Usuário realiza compra com sucesso', () => {
     //Usuário realiza login com sucesso
     cy.visit('https://www.saucedemo.com/');
     cy.get('[data-test="username"]').type('standard_user');
