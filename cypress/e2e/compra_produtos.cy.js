@@ -24,7 +24,7 @@ describe('Compra de Produtos', () => {
     //Verifica Informação de Envio
     cy.get('[data-test="shipping-info-label"]').should('be.visible').and('contain', 'Shipping Information:');
     cy.get('[data-test="shipping-info-value"]').should('be.visible').and('contain', 'Free Pony Express Delivery!');
-    //Verifica o Valor Total
+    //Verifica o Valor Total e Taxa
     cy.get('[data-test="total-info-label"]').should('be.visible').and('contain', 'Price Total');
     cy.get('[data-test="subtotal-label"]').should('be.visible').and('contain', 'Item total: $79.98');
     cy.get('[data-test="tax-label"]').should('be.visible').and('contain', 'Tax: $6.40');
