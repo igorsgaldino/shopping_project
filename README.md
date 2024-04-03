@@ -2,7 +2,6 @@
 <hr>
 <p class="has-line-data" data-line-start="2" data-line-end="3"><img src="https://img.shields.io/badge/-Cypress-07C160?style=flat&amp;logo=cypress" alt="Cypress"> <img src="https://img.shields.io/badge/-Javascript-159?style=flat&amp;logo=javascript" alt="JavasScript"><img src="https://img.shields.io/badge/-Git-100?style=flat&amp;logo=git" alt="Git"><img src="https://img.shields.io/badge/-GitHub-555?style=flat&amp;logo=github" alt="GitHub"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-100?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code"> </p>
 <hr>
-<p class="has-line-data" data-line-start="5" data-line-end="6">#Adicionar Video</p>
 <p class="has-line-data" data-line-start="7" data-line-end="9"><strong>Introdução</strong><br>
 Esse é um projeto de estudo de automação de testes, utilizando como modelo um sistema de compras.</p>
 <p class="has-line-data" data-line-start="10" data-line-end="12"><strong>Objetivo</strong><br>
