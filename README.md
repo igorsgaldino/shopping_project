@@ -5,7 +5,7 @@
 <p class="has-line-data" data-line-start="7" data-line-end="9"><strong>Introdução</strong><br>
 Esse é um projeto de estudo de automação de testes, utilizando como modelo um sistema de compras.</p>
 <p class="has-line-data" data-line-start="10" data-line-end="12"><strong>Objetivo</strong><br>
-Esse projeto busca apresentar uma automação de testes simples e eficaz, simulando a navegação de um usuário comum, onde o mesmo realiza as ações no sistema de compras online.</p>
+O projeto busca apresentar uma automação de testes simples e eficaz, simulando a navegação de um usuário comum, onde o mesmo realiza as ações no sistema de compras online.</p>
 <p class="has-line-data" data-line-start="13" data-line-end="15"><strong>Módulos</strong><br>
 Iremos simular algumas navegações em cima dos módulos:</p>
 <ul>
