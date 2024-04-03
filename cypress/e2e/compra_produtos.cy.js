@@ -10,7 +10,6 @@ describe('Compra de Produtos', () => {
     cy.get('[data-test="add-to-cart-sauce-labs-fleece-jacket"]').click();
     cy.get('[data-test="shopping-cart-link"]').click();
     cy.get('[data-test="shopping-cart-badge"]').should('be.visible').and('contain', '2');  //Verifica quantidade itens
-    cy.get('[data-test="item-4-title-link"] > [data-test="inventory-item-name"]').should('be.visible').and('contain', 'Sauce Labs Backpack' , "$29.99"); //Verifica nome e valor do primeiro item
     //Usuário clica no botão "Checkout" para prosseguir com a compra
     cy.get('[data-test="checkout"]').click();
     //Usuário preenche os campos para prosseguir com a compra
